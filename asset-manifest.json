@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weekSix-DayTwo/static/css/main.9d10fb6b.chunk.css",
+    "main.js": "/weekSix-DayTwo/static/js/main.02a6d020.chunk.js",
+    "main.js.map": "/weekSix-DayTwo/static/js/main.02a6d020.chunk.js.map",
+    "runtime-main.js": "/weekSix-DayTwo/static/js/runtime-main.f2a7e648.js",
+    "runtime-main.js.map": "/weekSix-DayTwo/static/js/runtime-main.f2a7e648.js.map",
+    "static/js/2.c9f8274d.chunk.js": "/weekSix-DayTwo/static/js/2.c9f8274d.chunk.js",
+    "static/js/2.c9f8274d.chunk.js.map": "/weekSix-DayTwo/static/js/2.c9f8274d.chunk.js.map",
+    "index.html": "/weekSix-DayTwo/index.html",
+    "precache-manifest.a9a21ae7983caefec568a010bf78cdb0.js": "/weekSix-DayTwo/precache-manifest.a9a21ae7983caefec568a010bf78cdb0.js",
+    "service-worker.js": "/weekSix-DayTwo/service-worker.js",
+    "static/css/main.9d10fb6b.chunk.css.map": "/weekSix-DayTwo/static/css/main.9d10fb6b.chunk.css.map",
+    "static/js/2.c9f8274d.chunk.js.LICENSE.txt": "/weekSix-DayTwo/static/js/2.c9f8274d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a7e648.js",
+    "static/js/2.c9f8274d.chunk.js",
+    "static/css/main.9d10fb6b.chunk.css",
+    "static/js/main.02a6d020.chunk.js"
+  ]
+}
